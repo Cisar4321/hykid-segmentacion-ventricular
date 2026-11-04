@@ -1,0 +1,7 @@
+synapseclient
+nibabel
+numpy
+pandas
+matplotlib
+ipywidgets
+jupyter

@@ -5,3 +5,8 @@ pandas
 matplotlib
 ipywidgets
 jupyter
+scipy
+scikit-image
+scikit-learn
+torch
+monai[nibabel]
